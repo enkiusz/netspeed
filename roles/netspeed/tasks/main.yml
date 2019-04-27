@@ -1,0 +1,36 @@
+- name: Install dependencies
+  package:
+    state: present
+    name: "{{ item }}"  
+  with_items: "{{ debian_pkg_deps }}"
+
+- name: Create scripts in {{ bindir }}
+  template:
+    src: "{{ item }}"
+    dest: "{{ bindir }}/{{ item | basename | regex_replace('\\.j2','') }}"
+  with_items:
+    - network-speed.j2
+
+- name: Create systemd units in {{ systemd_units_root }}
+  template:
+    src: "{{ item }}"
+    dest: "{{ systemd_units_root }}/{{ item | basename | regex_replace('\\.j2','') }}"
+  with_items:
+    - network-speed.service.j2
+    - network-speed.timer.j2
+  notify:
+    - reload systemd units
+
+- name: Create tmpfiles.d definitions in {{ systemd_tmpfiles_dir }}
+  template:
+    src: "{{ item }}"
+    dest: "{{ systemd_tmpfiles_dir }}/{{ item | basename | regex_replace('\\.j2','') }}"
+  with_items:
+    - tmpfiles.d/network-speed.conf.j2
+  notify:
+    - create tmpfiles
+
+- name: Enable and start the network-speed service
+  service: name=network-speed.timer state=started enabled=yes
+
+  

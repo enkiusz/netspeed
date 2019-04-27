@@ -1,0 +1,9 @@
+debian_pkg_deps:
+    - bridge-utils
+
+data_root: /var/lib/network-speed
+default_resolver_ip: 8.8.8.8
+
+bindir: /usr/local/bin
+systemd_units_root: /etc/systemd/system
+systemd_tmpfiles_dir: /etc/tmpfiles.d

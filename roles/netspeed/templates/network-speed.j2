@@ -1,0 +1,152 @@
+#!/bin/bash
+
+. log4bash.sh
+
+#
+# Configuration
+#
+
+# The file from where gateways are read
+GW_FILE=${GW_FILE:-/etc/network-speed.conf}
+# The location where measurement result files are put
+DATADIR=${DATADIR:-{{ data_root }}}
+# The IP address used as the DNS resolver inside the namespaces where the tests are run.
+NETNS_RESOLVER_IP=${NETNS_RESOLVER_IP:-{{ default_resolver_ip }}}
+
+# Persist the configuration objects (netns and veth devices) after test ends
+PERSIST=${PERSIST:-false}
+# The command used for running the test
+TEST_CMD=${TEST_CMD:-speedtest-cli --csv}
+# The command usde for initializing of the results file when it doesn't exist
+TEST_INITCMD=${TEST_INITCMD:-speedtest-cli --csv-header}
+
+setup_bridge() {
+	uplink_iface="$1"; shift
+	br_iface="br-$uplink_iface"
+
+	cat > "/etc/network/interfaces.d/$br_iface" <<EOF
+iface $uplink_iface inet manual
+iface $br_iface inet dhcp
+	bridge_ports $uplink_iface
+EOF
+
+	ifdown "$uplink_iface"
+	# Unconfigure DHCP
+	[ -x "$(which dhclient)" ] && dhclient -r "$uplink_iface"
+	[ -x "$(which dhcpcd)" ] && dhcpcd --release "$uplink_iface"
+
+	ifup "$br_iface"
+}
+
+readonly host_iface="veth0" netns_iface="veth1"
+connect_to_bridge() {
+	ns_name="$1"; shift
+	br_iface="$1"; shift
+
+	# Create a generic link config file for all inside interfaces
+	cat > "/etc/network/interfaces.d/$netns_iface" <<EOF
+iface $netns_iface inet dhcp
+EOF
+
+	ip link add name "$host_iface" type veth peer name "$netns_iface" || true
+	ip link set "$netns_iface" netns "$ns_name" || true
+	brctl addif "$br_iface" "$host_iface" || true
+
+	ip netns exec "$ns_name" ifup "$netns_iface"
+}
+
+disconnect_from_bridge() {
+	# These arguments are superflous for now but may be used later when
+	# multiple netns'es will be in use in parallel
+	ns_name="$1"; shift
+	br_iface="$1"; shift
+
+	ip netns exec "$ns_name" ifdown "$netns_iface"
+	ip l del "$host_iface"
+}
+
+usage() {
+	echo "$(basename "$0") usage:"
+	echo "$(basename "$0") [-c <test cmd>] [-C <test init cmd>] [-p] [gw_id1] [gw_id2] ..."
+	echo ""
+	echo "If no gw IDs are provided on command line all gateways configured in $GW_FILE"
+}
+
+unset testmode
+
+while getopts ":hpc:C:t" opt; do
+  case ${opt} in
+    h)
+      usage
+      exit 1
+      ;;
+    p)
+      PERSIST="true"
+      ;;
+    c)
+      TEST_CMD="$OPTARG"
+      ;;
+    C)
+      TEST_INITCMD="$OPTARG"
+      ;;
+    t)
+      testmode="yes"
+      ;;
+   \?)
+     echo "Invalid Option: -$OPTARG" 1>&2
+     exit 1
+     ;;
+  esac
+done
+shift $((OPTIND -1))
+
+if [ -z "$1" ]; then
+	gw_ids=$(awk '{print $1;}' "$GW_FILE")
+else
+	gw_ids=$*
+fi
+
+for gw_id in $gw_ids; do
+	grep "^$gw_id[ \t]" "$GW_FILE" | (
+		read gw_id gw_ip name;
+		log "Testing GW '$gw_id' (IP '$gw_ip' name '$name')"
+		gw_iface=$(ip r show default via "$gw_ip" | awk '{print $3;}' | head -n 1)
+		if [ -z "$gw_iface" ]; then
+			log_error "GW '$gw_id' default route (via $gw_ip) doesn't exist, skipping"
+			exit 0
+		fi
+
+		if ! ip -d -o l show "$gw_iface" | grep -q -F 'bridge_id'; then
+			log "Wrapping gw '$gw_id' iface '$gw_iface' in a bridge"
+			setup_bridge "$gw_iface"
+			gw_iface="br-$gw_iface"
+		fi
+
+		ip netns add "$gw_id" || true
+
+		# Create resolv.conf for the netns
+		mkdir -p "/etc/netns/$gw_id"
+
+		connect_to_bridge "$gw_id" "$gw_iface"
+
+		cat > "/etc/netns/$gw_id/resolv.conf" <<EOF
+nameserver $NETNS_RESOLVER_IP
+EOF
+
+		if [ -z "$testmode" ]; then
+			output_file="$DATADIR/$gw_id.csv"
+			[ -w "$output_file" ] || $TEST_INITCMD > "$output_file"
+
+			log "GW '$gw_id' running test '$TEST_CMD', output to '$output_file'"
+			ip netns exec "$gw_id" $TEST_CMD >> "$output_file" || true
+		else
+			log "GW '$gw_id' running test '$TEST_CMD'"
+			ip netns exec "$gw_id" $TEST_CMD || true
+		fi
+
+		if [ "$PERSIST" != "true" ]; then
+			disconnect_from_bridge "$gw_id" "$gw_iface"
+			ip netns del "$gw_id"
+		fi
+	)
+done
