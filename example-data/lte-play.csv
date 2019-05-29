@@ -1,0 +1,952 @@
+Server ID,Sponsor,Server Name,Timestamp,Distance,Ping,Download,Upload
+10550,Supermedia,Warsaw,2019-04-09T19:29:23.362264,3.7117547681523484,26.301,7706912.416309508,8113825.815558673
+5134,NETIA S.A.,Warsaw,2019-04-09T20:01:30.081795,3.7117547681523484,32.088,1754126.6435797657,3742678.0270113284
+5134,NETIA S.A.,Warsaw,2019-04-09T21:01:25.797079,3.7117547681523484,24.354,4863921.664474597,8978647.467952034
+10550,Supermedia,Warsaw,2019-04-09T22:01:35.122081,3.7117547681523484,23.152,13259921.614839979,2824087.020622136
+5134,NETIA S.A.,Warsaw,2019-04-09T23:01:33.788712,3.7117547681523484,22.037,16447946.163302317,15189351.355176467
+5134,NETIA S.A.,Warsaw,2019-04-10T00:01:25.790765,3.7117547681523484,17.783,3983203.4440343985,42666225.95002743
+338,Skynet DC,Warsaw,2019-04-10T01:01:24.158848,3.7117547681523484,19.076,6154101.0142479,40601904.8579846
+10550,Supermedia,Warsaw,2019-04-10T02:01:23.158179,3.7117547681523484,22.075,7850809.717400164,44027546.65804272
+338,Skynet DC,Warsaw,2019-04-10T03:01:23.491732,3.7117547681523484,22.633,11735771.528969133,43654247.34552181
+18199,Vectra S.A,Warszawa,2019-04-10T04:01:23.307509,3.7117547681523484,29.856,12717572.531298593,42256615.92482324
+18199,Vectra S.A,Warszawa,2019-04-10T05:01:26.176617,3.7117547681523484,25.036,5059467.216756949,42662677.09919247
+18199,Vectra S.A,Warszawa,2019-04-10T06:01:25.868609,3.7117547681523484,7.18,161387657.67025957,35465664.56664353
+5134,NETIA S.A.,Warsaw,2019-04-10T07:01:29.278293,3.7117547681523484,24.021,2789447.11850545,43769291.34575683
+5134,NETIA S.A.,Warsaw,2019-04-10T08:01:44.881192,3.7117547681523484,28.499,23190318.971218534,4837802.891692214
+10550,Supermedia,Warsaw,2019-04-10T09:01:24.234350,3.7117547681523484,34.832,8757061.016693525,44343471.02340176
+18199,Vectra S.A,Warszawa,2019-04-10T10:01:30.024952,3.7117547681523484,6.775,164627158.05805892,41206053.81966533
+5134,NETIA S.A.,Warsaw,2019-04-10T11:02:03.343631,3.7117547681523484,28.024,22383399.34251377,8780980.006837392
+18199,Vectra S.A,Warszawa,2019-04-10T12:01:35.311347,3.7117547681523484,7.543,166372010.90574664,43341087.04484412
+5134,NETIA S.A.,Warsaw,2019-04-10T13:01:26.806792,3.7117547681523484,26.507,4796362.870597583,41812546.95805153
+5134,NETIA S.A.,Warsaw,2019-04-10T14:01:27.707263,3.7117547681523484,24.938,13551051.674021225,37973844.56063903
+338,Skynet DC,Warsaw,2019-04-10T15:01:31.923331,3.7117547681523484,27.669,10204617.273686457,37344152.770951286
+5134,NETIA S.A.,Warsaw,2019-04-10T16:01:25.912566,3.7117547681523484,21.507,5589559.943468469,40804033.97751839
+5134,NETIA S.A.,Warsaw,2019-04-10T17:01:26.458835,3.7117547681523484,26.53,2831959.03488959,41425243.26880381
+5134,NETIA S.A.,Warsaw,2019-04-10T18:01:27.461792,3.7117547681523484,25.32,3759028.8625857704,39601358.68856012
+338,Skynet DC,Warsaw,2019-04-10T19:01:32.846317,3.7117547681523484,33.123,627958.6877049472,42973473.16619509
+5134,NETIA S.A.,Warsaw,2019-04-10T20:01:31.442407,3.7117547681523484,31.984,677131.3406873019,35941510.58644141
+18199,Vectra S.A,Warszawa,2019-04-10T21:01:24.491971,3.7117547681523484,36.852,6026758.657757256,40979590.83757295
+10550,Supermedia,Warsaw,2019-04-10T22:01:24.015107,3.7117547681523484,24.623,7394594.46668585,26927496.804637507
+10550,Supermedia,Warsaw,2019-04-10T23:01:25.189907,3.7117547681523484,21.299,17867234.703527126,43973148.83228466
+5134,NETIA S.A.,Warsaw,2019-04-11T00:01:32.078888,3.7117547681523484,30.509,20380902.486125026,35485867.433504425
+338,Skynet DC,Warsaw,2019-04-11T01:01:23.119716,3.7117547681523484,21.062,21574612.10326277,43594449.27596973
+5134,NETIA S.A.,Warsaw,2019-04-11T02:01:23.978937,3.7117547681523484,23.152,22677431.2980414,44031278.52081955
+5134,NETIA S.A.,Warsaw,2019-04-11T03:01:25.042179,3.7117547681523484,19.846,23506792.559098795,42295329.2377252
+5134,NETIA S.A.,Warsaw,2019-04-11T04:01:22.941368,3.7117547681523484,20.105,15791997.511707842,37049889.31414127
+10550,Supermedia,Warsaw,2019-04-11T05:01:24.219646,3.7117547681523484,27.652,7086715.654402902,43973678.7253979
+10550,Supermedia,Warsaw,2019-04-11T06:01:24.138264,3.7117547681523484,21.781,14997295.704973657,44007056.53915922
+5134,NETIA S.A.,Warsaw,2019-04-11T07:01:24.902018,3.7117547681523484,25.677,17194477.00015497,37513587.36915724
+10550,Supermedia,Warsaw,2019-04-11T08:01:23.297535,3.7117547681523484,29.634,12135577.241390979,43091123.80713758
+18199,Vectra S.A,Warszawa,2019-04-11T09:01:24.619443,3.7117547681523484,25.228,8762442.960252836,43347639.712168865
+5134,NETIA S.A.,Warsaw,2019-04-11T10:01:26.953239,3.7117547681523484,29.843,13143108.7164343,42230712.7414676
+338,Skynet DC,Warsaw,2019-04-11T11:01:32.931414,3.7117547681523484,36.503,5829927.95562385,43296054.64954518
+18199,Vectra S.A,Warszawa,2019-04-11T12:01:37.852938,3.7117547681523484,8.926,167024065.93044776,43510157.64767557
+10550,Supermedia,Warsaw,2019-04-11T13:01:26.064708,3.7117547681523484,27.89,17763431.583729923,34238030.87148268
+5134,NETIA S.A.,Warsaw,2019-04-11T14:01:26.026995,3.7117547681523484,24.68,7478237.375253028,41826872.784465656
+5134,NETIA S.A.,Warsaw,2019-04-11T15:01:56.098903,3.7117547681523484,26.499,16941927.726679824,9349033.40290224
+5134,NETIA S.A.,Warsaw,2019-04-11T16:01:55.877515,3.7117547681523484,23.238,14782123.506083269,7397890.3549204515
+5134,NETIA S.A.,Warsaw,2019-04-11T17:01:55.242287,3.7117547681523484,30.524,7393577.664131663,4039731.597904688
+5134,NETIA S.A.,Warsaw,2019-04-11T18:01:25.121705,3.7117547681523484,23.881,8594631.40060644,4826261.5988146635
+5134,NETIA S.A.,Warsaw,2019-04-11T19:01:51.903006,3.7117547681523484,26.562,11945935.436048089,7035126.512063694
+18199,Vectra S.A,Warszawa,2019-04-11T20:01:26.862387,3.7117547681523484,25.443,4983713.987118017,7496723.307875845
+5134,NETIA S.A.,Warsaw,2019-04-11T21:01:25.979294,3.7117547681523484,26.024,3463275.5855701095,4653434.500456742
+5134,NETIA S.A.,Warsaw,2019-04-11T22:01:34.390688,3.7117547681523484,24.512,7089559.053663419,6796238.57251241
+18199,Vectra S.A,Warszawa,2019-04-11T23:01:58.431803,3.7117547681523484,29.98,18896226.905784503,4344764.111599436
+10550,Supermedia,Warsaw,2019-04-12T00:01:25.948491,3.7117547681523484,20.27,23428414.761247557,10141356.650655517
+18199,Vectra S.A,Warszawa,2019-04-12T01:01:26.150610,3.7117547681523484,21.495,24584296.026670527,10540066.722600326
+338,Skynet DC,Warsaw,2019-04-12T02:01:23.906573,3.7117547681523484,24.678,25132758.58001076,10819844.193825543
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-12T03:01:25.427703,7.506771473787712,29.984,24998361.799248677,37866823.98967169
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-12T04:01:29.762703,7.506771473787712,36.32,9914088.551743262,43358412.642673604
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-12T05:01:26.483239,7.506771473787712,36.867,21522723.576608177,43354494.15899437
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-12T06:01:27.163111,7.506771473787712,36.864,20179567.43152218,43781079.865567155
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-12T07:01:31.352799,7.506771473787712,34.344,3724382.078583259,43322926.543839544
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-12T08:01:36.290167,7.506771473787712,38.672,5194626.360737376,41388019.92436913
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-12T09:01:26.578590,7.506771473787712,33.736,14627990.820072262,38203192.95794401
+4857,InterSat,Myszkow,2019-04-12T10:01:30.309243,35.26602307926047,40.011,5994852.707563306,41811602.13984723
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-12T11:01:37.399549,7.506771473787712,34.29,724579.9530931427,43956620.28470794
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-12T12:01:25.865385,7.506771473787712,35.476,15123550.573754635,41414051.77551569
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-12T13:01:30.592204,7.506771473787712,32.581,5521173.431445006,41431300.753904164
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-12T14:01:25.963104,7.506771473787712,41.764,21202305.994588636,43776551.32145919
+2612,Systemy Tele-Informatyczne INGRAM,Pajeczno,2019-04-12T15:01:29.786891,46.58757491119629,40.517,4633222.574242112,42920440.72914979
+2612,Systemy Tele-Informatyczne INGRAM,Pajeczno,2019-04-12T16:01:26.322999,46.58757491119629,37.286,17106622.829343237,43001618.3107105
+4857,InterSat,Myszkow,2019-04-12T17:01:31.972618,35.26602307926047,46.587,6479347.697803999,42907341.298034765
+4857,InterSat,Myszkow,2019-04-12T18:01:27.001559,35.26602307926047,39.61,3273448.190713493,26138996.26350062
+4857,InterSat,Myszkow,2019-04-12T19:01:26.739584,35.26602307926047,40.146,9174919.347304227,43763632.64101743
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-12T20:01:30.633578,7.506771473787712,45.716,3567526.9404218826,43049970.5187781
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-12T21:01:24.125016,7.506771473787712,40.161,12959524.390150793,43314512.561473124
+4857,InterSat,Myszkow,2019-04-12T22:01:25.042316,35.26602307926047,37.846,6652861.236406376,34575620.30041795
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-12T23:01:25.334403,7.506771473787712,31.998,19254640.24970401,43316308.11912263
+4857,InterSat,Myszkow,2019-04-13T00:01:24.472638,35.26602307926047,36.832,16738573.143268459,40806281.50851278
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-13T01:01:24.108292,7.506771473787712,32.488,20424476.921319224,36288515.715450734
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-13T02:01:23.973411,7.506771473787712,39.794,27817577.478204757,43768587.58453702
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-13T03:01:23.568082,7.506771473787712,37.511,24082003.5121936,42900561.92144313
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-13T05:01:31.093875,7.506771473787712,37.345,10045617.249059595,43590932.95578692
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-13T06:01:26.062962,7.506771473787712,33.55,22854051.620751318,43562289.88456824
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-13T09:01:27.212366,7.506771473787712,36.991,12159607.484301385,37172650.61920717
+4857,InterSat,Myszkow,2019-04-13T10:01:31.378486,35.26602307926047,43.139,3963202.2251823535,40727276.63097296
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-13T11:01:24.708500,7.506771473787712,35.962,10565788.829711659,40820820.86210613
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-13T12:01:29.595645,7.506771473787712,37.422,7536696.163455157,43805600.67202902
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-13T13:01:29.160192,7.506771473787712,35.931,13057021.606816784,42493449.65106589
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-13T14:01:28.423450,7.506771473787712,35.184,14211029.679879367,42886563.301783055
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-13T15:01:34.033273,7.506771473787712,33.559,6844852.807050576,39297656.63584111
+4857,InterSat,Myszkow,2019-04-13T16:01:24.575020,35.26602307926047,45.686,5340708.164927064,42552782.73122809
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-13T17:01:26.094652,7.506771473787712,40.803,3898867.8406086913,43351564.92916995
+2612,Systemy Tele-Informatyczne INGRAM,Pajeczno,2019-04-13T18:01:55.213762,46.58757491119629,16.068,122122377.99091059,43521029.195446074
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-13T19:01:25.491079,7.506771473787712,40.47,5082792.9562884355,43572069.63019605
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-13T19:14:10.614323,7.506771473787712,35.369,5449876.063854228,3227550.122801553
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-13T20:01:24.071187,7.506771473787712,35.372,3614393.4126292416,43081094.221549146
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-13T21:01:28.880927,7.506771473787712,39.986,3563735.449976653,44033513.99411193
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-13T22:01:39.238183,7.506771473787712,37.256,350161.4955121374,42904406.584786616
+2612,Systemy Tele-Informatyczne INGRAM,Pajeczno,2019-04-13T23:01:26.794515,46.58757491119629,36.351,13743484.369948294,42679470.62987176
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-14T00:01:31.781696,7.506771473787712,35.987,15307254.446645029,44019389.420386426
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-14T01:01:29.255431,7.506771473787712,34.593,20350486.804219037,42903724.1145501
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-14T02:01:23.361567,7.506771473787712,32.99,18253380.53959626,43292571.98845509
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-14T03:01:22.877259,7.506771473787712,29.478,23753290.466711484,43642641.75166008
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-14T04:01:23.761632,7.506771473787712,33.12,11436340.722924957,43770954.1324892
+13486,cronel.net,Radomsko,2019-04-14T05:01:30.071250,32.2433302209471,34.11,10100406.648933541,42642659.85585618
+4857,InterSat,Myszkow,2019-04-14T06:01:30.713626,35.26602307926047,40.811,2775823.4086481705,43547540.80888658
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-14T07:01:24.088272,7.506771473787712,33.104,12776105.22598418,43728025.504104644
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-14T08:01:23.524509,7.506771473787712,36.732,798041.3398992305,43352628.463309415
+4857,InterSat,Myszkow,2019-04-14T09:01:24.416556,35.26602307926047,79.925,12041846.423784621,43063559.96996751
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-14T10:01:26.634669,7.506771473787712,35.299,6633541.020606859,41816081.876433015
+18199,Vectra S.A,Warszawa,2019-04-14T11:02:12.775760,2.0495705878425583,8.402,94744925.06251396,36658738.39842596
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-14T12:01:31.497784,7.506771473787712,34.821,4763832.866136725,43575115.72667834
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-14T13:01:25.824737,7.506771473787712,43.038,4907447.254280287,42846343.190462396
+2612,Systemy Tele-Informatyczne INGRAM,Pajeczno,2019-04-14T14:01:31.154161,46.58757491119629,46.111,7722315.35293164,43891872.31473428
+13486,cronel.net,Radomsko,2019-04-14T15:01:24.474349,32.2433302209471,39.128,1848231.1356956435,43091955.61560126
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-14T16:01:32.254246,7.506771473787712,35.513,1776760.6379472597,43076795.907402374
+2612,Systemy Tele-Informatyczne INGRAM,Pajeczno,2019-04-14T17:01:26.924799,46.58757491119629,39.853,5403966.165022519,43719636.694911666
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-14T18:01:25.789883,7.506771473787712,36.185,6968375.27164949,40587537.77505164
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-14T19:01:24.574301,7.506771473787712,34.718,2026052.811053125,41421286.47434178
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-14T20:01:25.584952,7.506771473787712,40.866,6717409.060892783,43044860.96567806
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-14T21:01:24.343172,7.506771473787712,39.392,4732458.318204293,41984893.36403781
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-14T22:01:32.155115,7.506771473787712,39.19,6670328.454974352,43340940.42547526
+2612,Systemy Tele-Informatyczne INGRAM,Pajeczno,2019-04-14T23:01:23.986752,46.58757491119629,37.264,17533872.268924452,42619662.233639315
+13486,cronel.net,Radomsko,2019-04-15T00:01:30.526517,32.2433302209471,34.357,19018495.11920471,43287484.1759316
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-15T01:01:25.694038,7.506771473787712,33.847,22168698.63407376,43546728.32279946
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-15T02:01:30.104174,7.506771473787712,32.987,26494452.43227338,41629896.68239696
+4857,InterSat,Myszkow,2019-04-15T03:01:23.925123,35.26602307926047,36.664,27427465.226174805,43087548.02668184
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-15T04:01:23.984634,7.506771473787712,34.224,24794984.637352344,42230847.40611616
+13486,cronel.net,Radomsko,2019-04-15T05:01:38.595359,32.2433302209471,40.244,3516527.87541446,43269722.779916294
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-15T06:01:34.481339,7.506771473787712,39.158,14211399.176489577,43556961.42520662
+4857,InterSat,Myszkow,2019-04-15T07:01:25.834758,35.26602307926047,36.55,17384499.50070511,43098808.22946882
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-15T08:01:24.882865,7.506771473787712,33.981,17559757.39862728,41012537.72695995
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-15T09:01:24.675325,7.506771473787712,37.397,15229740.530238189,43699274.95185447
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-15T10:01:35.484560,7.506771473787712,33.62,5506944.763102495,43335619.76985933
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-15T11:01:25.411161,7.506771473787712,36.824,10195673.012512032,43795681.651980385
+2612,Systemy Tele-Informatyczne INGRAM,Pajeczno,2019-04-15T12:01:25.515324,46.58757491119629,40.959,12044161.917195546,43538606.7373515
+2612,Systemy Tele-Informatyczne INGRAM,Pajeczno,2019-04-15T13:01:23.659326,46.58757491119629,17.228,133974637.43731698,41401502.20083119
+4857,InterSat,Myszkow,2019-04-15T14:01:25.465868,35.26602307926047,45.688,7799140.170392408,42662877.84523487
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-15T15:01:26.455075,7.506771473787712,39.487,10015046.514606938,43090197.51277814
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-15T16:01:33.242791,7.506771473787712,38.318,4789605.803180684,37351984.69459815
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-15T17:01:26.058290,7.506771473787712,43.167,8341399.031818039,34731396.91618616
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-15T18:01:25.739194,7.506771473787712,40.222,3143213.8893689895,43344837.33174018
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-15T19:01:35.059705,7.506771473787712,35.347,2032989.701375213,43769882.97777922
+2612,Systemy Tele-Informatyczne INGRAM,Pajeczno,2019-04-15T20:01:28.499126,46.58757491119629,41.032,1531156.2069491092,41905737.08625025
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-15T21:01:33.038729,7.506771473787712,37.458,2418302.352867067,42229419.096744314
+13486,cronel.net,Radomsko,2019-04-15T22:01:34.255800,32.2433302209471,40.002,5059541.913920824,42866577.10496742
+2612,Systemy Tele-Informatyczne INGRAM,Pajeczno,2019-04-15T23:01:45.289479,46.58757491119629,18.833,134115460.78936058,35778286.301392384
+13486,cronel.net,Radomsko,2019-04-16T00:01:23.495340,32.2433302209471,37.703,23794205.86510731,42569917.256465994
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-16T01:01:27.744903,7.506771473787712,35.93,22916025.719854146,43547722.61685519
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-16T02:01:23.364622,7.506771473787712,32.093,29624788.215237785,42907878.617382474
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-16T03:01:26.065180,7.506771473787712,35.188,27618193.129205823,43351209.3664268
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-16T04:01:25.844796,7.506771473787712,29.4,23578614.103604786,40592010.66936078
+4857,InterSat,Myszkow,2019-04-16T05:01:27.138060,35.26602307926047,40.485,21442542.495347902,43314848.42131082
+4857,InterSat,Myszkow,2019-04-16T06:01:26.226780,35.26602307926047,36.789,18682746.72171812,42169280.35832447
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-16T07:01:35.302323,7.506771473787712,34.935,10568469.589237468,42886800.49041444
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-16T08:01:26.934981,7.506771473787712,35.342,16031331.414724488,43099410.2417342
+4857,InterSat,Myszkow,2019-04-16T09:01:25.616116,35.26602307926047,42.55,11792352.672424577,43054027.581642084
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-16T10:01:28.783482,7.506771473787712,43.928,16811289.012577366,43652742.14935373
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-16T11:01:33.473705,7.506771473787712,40.155,8192350.733201408,43987348.80286385
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-16T12:01:28.805327,7.506771473787712,37.567,15630872.082703289,43304881.4902773
+4857,InterSat,Myszkow,2019-04-16T13:01:26.007989,35.26602307926047,37.697,14578603.67553758,43725078.02472039
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-16T14:01:25.739951,7.506771473787712,40.654,13059271.026642576,36567702.0600053
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-16T15:01:33.550876,7.506771473787712,39.744,3601297.7049340135,43735354.55939403
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-16T16:01:25.040544,7.506771473787712,49.112,10720994.406007038,43964908.42348105
+2612,Systemy Tele-Informatyczne INGRAM,Pajeczno,2019-04-16T17:01:27.376485,46.58757491119629,51.046,8918335.277541624,43749700.13489192
+2612,Systemy Tele-Informatyczne INGRAM,Pajeczno,2019-04-16T18:01:48.420783,46.58757491119629,19.068,128131588.27154659,43209650.09770745
+2612,Systemy Tele-Informatyczne INGRAM,Pajeczno,2019-04-16T19:01:32.067869,46.58757491119629,45.041,2901121.031939505,43512114.02903944
+2612,Systemy Tele-Informatyczne INGRAM,Pajeczno,2019-04-16T20:01:43.548977,46.58757491119629,17.01,127403123.89820902,41179149.0148939
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-16T21:01:27.486955,7.506771473787712,37.712,6436106.451477932,42916369.73698232
+7695,Polskie Sieci Szerokopasmowe Sp. z.o.o.,Czestochowa,2019-04-16T22:01:24.800388,7.506771473787712,34.105,12207723.225821037,41437514.428480186
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration
+Cannot retrieve speedtest configuration

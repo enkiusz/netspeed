@@ -21,7 +21,12 @@ The above example shows 4 different gateways leading via some major Polish LTE c
 
 The script results are put in /var/lib/network-speed (by default) as CSV files which can be plotted using gnuplot or some other tool.
 
-Example plot:
+Example data is available in the example-data/ directory. A gnuplot script is provided to make a plot from the data:
+
+```
+➜  netspeed git:(master) ✗ gnuplot plot-speed.gnuplot 
+```
+
 ![Network speed](network-speed.svg)
 
 ## Setup
